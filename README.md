@@ -1,2 +1,2 @@
 # quiz-app
-An easy-to-use quiz app made for Dennis
+An easy-to-use quiz app.
